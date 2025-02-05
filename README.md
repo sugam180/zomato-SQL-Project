@@ -1,10 +1,10 @@
 # zomato-SQL-Project: 
 zomato Data Analysis using SQL
 
-Overview
+Overview:
 This project focuses on analyzing Zomato's restaurant data using SQL to extract actionable business insights. The dataset includes information about users, orders, restaurants, menus, and food items. Through SQL queries, we explore customer behaviors, restaurant performance, and sales trends.
 
-Key Objectives
+Key Objectives:
 Identify customer ordering patterns and preferences.
 Analyze restaurant performance based on order frequency and revenue.
 Track month-over-month growth and high-performing restaurants.
@@ -170,7 +170,13 @@ GROUP BY u.name, r.r_name
 ORDER BY r.r_name;
 
 
+# Tools & Technologies
+SQL (Compatible with MySQL)
+Zomato Dataset (structured across multiple relational tables)
 
+
+# Conclusion
+This project demonstrates the power of SQL in performing complex data analysis to drive business decisions in the food delivery sector. The insights extracted can help improve customer engagement, optimize restaurant operations, and shape marketing strategies.
 
 
 
