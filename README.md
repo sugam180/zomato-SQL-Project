@@ -1,5 +1,4 @@
-# zomato-SQL-Project
-zomato Data Analysis using SQL
+# zomato-SQL-Project:zomato Data Analysis using SQL
 
 # Creating database
 Create Database zomato;
